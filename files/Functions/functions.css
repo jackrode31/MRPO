@@ -24,6 +24,9 @@ span ul li{
 float: left;
  border-right: 1px solid #bbb;
 }
+span ul li.right{
+	float: right;
+}
 
 span ul li a {
     display: block;
@@ -54,5 +57,22 @@ footer h4 {
 }
 
 body{
-	background-color: aqua;
+	background-color
 }
+
+footer h4:hover{
+	color: black;
+	background-color: white;
+}
+ span ul li.active {
+ 	background-color: black;
+ 	color: white;
+ }
+
+ div.container{
+ 	margin: 20px 130px;
+ 	padding: 10px;
+ 	border: 2px solid black;
+ 	height: 200px;
+ 	border-radius: 12px;
+ }
