@@ -7,7 +7,7 @@
 <body>
 	 <center>
 	 	<h3>Conversión de un decimal a binario</h3>
-	 	<form action="lab4.php" method="post">
+	 	<form action="" method="post">
 	 		Introducir numero a convertir
 	 		<input type="text" name="num" maxlength="5" size="5">
 	 		<input type="submit" name="envio">
