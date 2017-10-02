@@ -50,3 +50,14 @@ div.container{
  	color: black;
  	font-family: sans-serif;
  }
+
+ div.echo {
+ 	padding: 4px;
+ 	margin: 4px;
+ 	color: blue;
+ }
+
+ h6{
+ 	color: green;
+ 	font-style: italic;
+ }
