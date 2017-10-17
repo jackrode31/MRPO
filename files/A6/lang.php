@@ -1,0 +1,8 @@
+<?php
+
+$español = array("Activar Software","Complete con sus datos para obtener su licencia","Si Ud. posee un código de activación y/o número de serie, puede registrarlo a través del siguiente formulario","Número de Serie","Nombre","Apellido","Email","Teléfono","Dirección","Ciudad","Provincia","País","RUT/RUC/NIC/NIT/RIF/RFC/CI","Los campos marcados con (*) son obligatorios.","Enviar","Gracias por activar su producto.","Datos Personales","Software Activado");
+
+$english = array("Activate Software","Fill in your details to obtain your license","If you have an activation code and / or serial number, you can register it using the following form","Serial Number", "Name", "Last Name", "Email", "Phone", "Address", "City", "Province", "Country", "RUT/RUC/NIC/NIT/RIF/RFC/CI","Fields marked with (*) are required.","Send","Thank you for activating your product.","Personal information","Software Activated");
+
+$italian = array("Attiva software","Compila i tuoi dati per ottenere la tua licenza","Se si dispone di un codice di attivazione e / o di un numero di serie, è possibile registrarlo utilizzando il seguente modulo","Numero di serie", "Nome", "Cognome", "E-mail", "Telefono", "Indirizzo", "Città", "Provincia", "Country", "RUT/RUC/NIC/NIT/RIF/RFC/CI","I campi contrassegnati con (*) sono obbligatori.","SEND","Grazie per aver attivato il tuo prodotto.","Informazioni personali","Software attivato");
+?>

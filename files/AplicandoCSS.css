@@ -4,17 +4,37 @@
 	text-align: center;
 	color: white;
 	border-radius: 8px;
+	margin: 15px;
+	padding: 10px;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 10px;
 }
 
 h3{
 color: green;
 font-style: bold;
-border: 1px black solid;
-border-radius: 3px;
+ border-bottom: 6px solid red;
+    background-color: lightgrey;
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
 }
 
 
 body{
-	background-color: MediumSeaGreen;
+	font-family: serif;
 }
+
+
+
+#form input{
+	
+	 border-bottom: 6px solid red;
+    background-color: lightgrey;
+    font-family: serif;
+    
+
+}
+
 
